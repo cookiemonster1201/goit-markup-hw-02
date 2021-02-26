@@ -97,6 +97,13 @@ body {
   text-align: center;
   color: var(--secondary-text-color);
 }
+
+.employee-speciality {
+  font-size: 16px;
+  line-height: 1.18;
+  letter-spacing: 0.03em;
+  color: var(--primary-text-color);
+}
 /* ===============EMPLOYEES SECTION END!!!============================== */
 
 /* ===============FOOTER!!!=================================== */
